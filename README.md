@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
+</p>
 
 <!--
 **sizumita/sizumita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
