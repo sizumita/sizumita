@@ -5,6 +5,10 @@
   <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
 </p>
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sizumita&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sizumita&show_icons=true&theme=tokyonight" />
+
+
 <!--
 **sizumita/sizumita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
