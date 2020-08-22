@@ -1,5 +1,7 @@
 # Hi there 👋
-
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/sizumita/posts.svg)](http://qiita.com/sizumita)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sizumita/contributions.svg)](http://qiita.com/sizumita)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/sizumita/followers.svg)](http://qiita.com/sizumita)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
