@@ -1,5 +1,4 @@
-# Hi there 👋
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/sizumita/posts.svg)](http://qiita.com/sizumita)
+# ᓀ‸ᓂ vanitas vanitatum et omnia vanitas.
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/sizumita/contributions.svg)](http://qiita.com/sizumita)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/sizumita/followers.svg)](http://qiita.com/sizumita)
 <p align="center"> 
@@ -10,18 +9,29 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sizumita&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sizumita&show_icons=true&theme=tokyonight" />
 
+[Webサイト](https://smdr.io)
 
-<!--
-**sizumita/sizumita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
 
-Here are some ideas to get you started:
+- 明治大学総合数理学部2年
+- 株式会社yieldspace 代表取締役
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## コミットメッセージ
+
+コミットメッセージにつける絵文字の意味一覧
+
+| 絵文字 | 意味 | 説明 |
+| :--- | :---: | :--- |
+| 🚀 | Init | プロジェクトのinit, 新しいパッケージの追加など |
+| 🐛 | Fix | バグ修正 |
+| 📝 | Document | ドキュメントの追加・修正 |
+| 🔧 | Feat | 新機能の追加 |
+| 🧰 | Chore | 雑用 |
+| 🧪 | Test | テスト関連のコードの変更・追加 |
+| 📦 | CI | CI関連のコードの変更・追加 |
+| 📚 | Refactor | リファクタリング |
+| 🔖 | Release | リリース |
+
+### Alfread
+
+`:init:`のように入力することで絵文字に変換されます
